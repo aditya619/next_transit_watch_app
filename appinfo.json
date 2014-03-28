@@ -1,0 +1,22 @@
+{
+  "uuid": "c26269c5-ddf1-4e74-810f-2a8a77921386",
+  "shortName": "Next Transit",
+  "longName": "next_transit",
+  "companyName": "",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [{
+        "type": "png",
+        "name": "IMAGE_BUS",
+        "file": "img/bus.png",
+        "menuIcon": true
+      }]
+  }
+}
